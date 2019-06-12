@@ -37,7 +37,7 @@ cedula,descripcion,dias,mes
 0906300595,Calamidad doméstica, terapia de rehabilitación IESS esposa (ENTRADA),11-jun-2019,M
 0923414916,Cita medica IESS por hijo (ENTRADA),22-may-2019,M
 0919166645,Asistencia a reunion en la Dirección de investigacion (SALIDA),27-may-2019,M
-1201485594,Firma de titulos en Secretaria de la Universidad de Guayaquil (SALIDA),21-may-2019,M
-1201485594,Cita medica (SALIDA),23-may-2019,M
 0907762942,Cambio de estado de marcación (almuerzo),06-jun-2019,M
 0918978107,Cambio de estado de marcación (ENTRADA),28-may-2019,M
+1201485594,Firma de titulos en Secretaria de la Universidad de Guayaquil (SALIDA),21-may-2019,M
+1201485594,Cita medica (SALIDA),23-may-2019,M
