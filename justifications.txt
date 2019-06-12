@@ -1,43 +1,43 @@
-cedula,descripcion,dias,mes
-0907762942,Cambio de estado de marcación (almuerzo),06-jun-2019,M
-0918978107,Cambio de estado de marcación (ENTRADA),28-may-2019,M
-0908695364,Congreso,28 de mayo al 1 de junio,M
-0918551078,Permiso por calamidad doméstica,27 al 28 de mayo,M
-0918551078,Vacaciones,6 al 30 de junio,M
-0918551078,Vacaciones,6 al 30 de junio,JUN
-0925834723,Permiso medico IESS,5 al 7 de junio,M
-0925834723,Permiso por un día Enfermedad,16-may-2019,M
-0919166645,Permiso por gestiones personales,10-jun-2019,M
-0911097194,Permiso con cargo a vacación por motivos personales,04-jun-2019,M
-0911097194,Permiso con cargo a vacación por motivo de su mamá,06-jun-2019,M
-0913645313,Cargo a vacaciones,5 al 7 de junio,M
-0907104905,Cargo a vacación por dos horas (SALIDA),07-jun-2019,M
-0907104905,Permiso cargo a vacaciones por asuntos personales,06-jun-2019,M
-0920461795,Permiso medico IESS,10 al 14 de junio,M
-0920461795,Permiso medico IESS,5 al 7 de junio,M
-0910481886,Permiso cargo a vacaciones por asuntos personales,7 al 9 de junio,M
-0925364168,Permiso con cargo a vacación por enfermedad,30-may-2019,M
-0925364168,Permiso con cargo a vacación por motivos personales,10-jun-2019,M
-0925364168,Cargo a vacaciones,04-jun-2019,M
-0924215379,Permiso cargo a vacaciones por asuntos personales,7 al 9 de junio,M
-0919955443,Consulta médica (SALIDA),20-may-2019,M
-0919955443,Consulta médica (ENTRADA),21-may-2019,M
-0919955443,Consulta médica (SALIDA),28-may-2019,M
-0918551078,Actualización de distributivos en Dirección Tecnológica (SALIDA),17-may-2019,M
-0919730200,Salida de campo,31-may-2019,M
-0906830088,Examen hospital IESS (ENTRADA),31-may-2019,M
-0908429830,Terapia fisica IESS (ENTRADA),16-may-2019,M
-0908429830,Terapia fisica IESS (ENTRADA),17-may-2019,M
-0923451397,Actualización de distributivos en Dirección Tecnológica (SALIDA),17-may-2019,M
-0925364168,Actualización de distributivos en Dirección Tecnológica (SALIDA),17-may-2019,M
-0907613616,Consulta IESS (ENTRADA),27-may-2019,M
-0923860803,Salida de Campo,23 al 24 de mayo,M
-0903850550,Salida de Campo,23 al 24 de mayo,M
-0927316547,Calamidad domestica por hijo hospitalizado (SALIDA),17-may-2019,M
-0906300595,Calamidad doméstica cita medica IESS esposa (ENTRADA),07-jun-2019,M
-0906300595,Calamidad doméstica terapia de rehabilitación IESS esposa (ENTRADA),10-jun-2019,M
-0906300595,Calamidad doméstica terapia de rehabilitación IESS esposa (ENTRADA),11-jun-2019,M
-0923414916,Cita medica IESS por hijo (ENTRADA),22-may-2019,M
-0919166645,Asistencia a reunion en la Dirección de investigacion (SALIDA),27-may-2019,M
-1201485594,Firma de titulos en Secretaria de la Universidad de Guayaquil (SALIDA),21-may-2019,M
-1201485594,Cita medica (SALIDA),23-may-2019,M
+cedula;nombres;descripcion;dias;mes
+0907762942;VARGAS CUENCA MARTHA LUCRECIA;Cambio de estado de marcación (almuerzo);06-jun-2019;M
+0918978107;MEJIA VERA JIMMY DANIEL;Cambio de estado de marcación (ENTRADA);28-may-2019;M
+0908695364;ALVAREZ MONTERO XAVIER GUILLERMO;Congreso;28 de mayo al 1 de junio;M
+0918551078;FLORES FREIRE HERLINDA AMALIA;Permiso por calamidad doméstica;27 al 28 de mayo;M
+0918551078;FLORES FREIRE HERLINDA AMALIA;Vacaciones;6 al 30 de junio;M
+0918551078;FLORES FREIRE HERLINDA AMALIA;Vacaciones;6 al 30 de junio;JUN
+0925834723;MEREGILDO GUARANDA JUAN MANUEL;Permiso medico IESS;5 al 7 de junio;M
+0925834723;MEREGILDO GUARANDA JUAN MANUEL;Permiso por un día Enfermedad;16-may-2019;M
+0919166645;MERO VALAREZO MARIUXI DE JESUS;Permiso por gestiones personales;10-jun-2019;M
+0911097194;MIRANDA VASQUEZ FABIOLA JANICE;Permiso con cargo a vacación por motivos personales;04-jun-2019;M
+0911097194;MIRANDA VASQUEZ FABIOLA JANICE;Permiso con cargo a vacación por motivo de su mamá;06-jun-2019;M
+0913645313;RODRIGUEZ REINA ROLANDO OCTAVIO;Cargo a vacaciones;5 al 7 de junio;M
+0907104905;TAPIA ALAVA NORTON ENRIQUE ;Cargo a vacación por dos horas (SALIDA);07-jun-2019;M
+0907104905;TAPIA ALAVA NORTON ENRIQUE ;Permiso cargo a vacaciones por asuntos personales;06-jun-2019;M
+0920461795;VANEGAS JIMENEZ KELLYA MARIANELA;Permiso medico IESS;10 al 14 de junio;M
+0920461795;VANEGAS JIMENEZ KELLYA MARIANELA;Permiso medico IESS;5 al 7 de junio;M
+0910481886;VARGAS CUENCA MIRIAM TERESA;Permiso cargo a vacaciones por asuntos personales;7 al 9 de junio;M
+0925364168;VASQUEZ VILLAMAR JOHANNA ALBANIA;Permiso con cargo a vacación por enfermedad;30-may-2019;M
+0925364168;VASQUEZ VILLAMAR JOHANNA ALBANIA;Permiso con cargo a vacación por motivos personales;10-jun-2019;M
+0925364168;VASQUEZ VILLAMAR JOHANNA ALBANIA;Cargo a vacaciones;04-jun-2019;M
+0924215379;ZAMBRANO HERRERA ROXANA ELIZABETH;Permiso cargo a vacaciones por asuntos personales;7 al 9 de junio;M
+0919955443;CHAVEZ VITERI RUBEN DARIO;Consulta médica (SALIDA);20-may-2019;M
+0919955443;CHAVEZ VITERI RUBEN DARIO;Consulta médica (ENTRADA);21-may-2019;M
+0919955443;CHAVEZ VITERI RUBEN DARIO;Consulta médica (SALIDA);28-may-2019;M
+0918551078;FLORES FREIRE HERLINDA AMALIA;Actualización de distributivos en Dirección Tecnológica (SALIDA);17-may-2019;M
+0919730200;SALAS ZAMBRANO JAIME;Salida de campo;31-may-2019;M
+0906830088;SOLORZANO MONTALVO MARIA DEL CARMEN;Examen hospital IESS (ENTRADA);31-may-2019;M
+0908429830;VERGARA SAENZ MARIA DE LOURDES;Terapia fisica IESS (ENTRADA);16-may-2019;M
+0908429830;VERGARA SAENZ MARIA DE LOURDES;Terapia fisica IESS (ENTRADA);17-may-2019;M
+0923451397;ANTEPARA BASURTO JOSE ANDRES;Actualización de distributivos en Dirección Tecnológica (SALIDA);17-may-2019;M
+0925364168;VASQUEZ VILLAMAR JOHANNA ALBANIA;Actualización de distributivos en Dirección Tecnológica (SALIDA);17-may-2019;M
+0907613616;PINTO BAQUERIZO FELIX HIPOLITO;Consulta IESS (ENTRADA);27-may-2019;M
+0923860803;NARANJO FREIRE CLELIA ISABEL;Salida de Campo;23 al 24 de mayo;M
+0903850550;SALCEDO MARIDUEÑA GALO;Salida de Campo;23 al 24 de mayo;M
+0927316547;ANDRADE BURGOS MANUEL ALBERTO;Calamidad domestica por hijo hospitalizado (SALIDA);17-may-2019;M
+0906300595;MEREGILDO BULGARIN MANUEL DE JESUS;Calamidad doméstica cita medica IESS esposa (ENTRADA);07-jun-2019;M
+0906300595;MEREGILDO BULGARIN MANUEL DE JESUS;Calamidad doméstica terapia de rehabilitación IESS esposa (ENTRADA);10-jun-2019;M
+0906300595;MEREGILDO BULGARIN MANUEL DE JESUS;Calamidad doméstica terapia de rehabilitación IESS esposa (ENTRADA);11-jun-2019;M
+0923414916;FLORES TRIVIÑO MARIA DEL PILAR;Cita medica IESS por hijo (ENTRADA);22-may-2019;M
+0919166645;MERO VALAREZO MARIUXI DE JESUS;Asistencia a reunion en la Dirección de investigacion (SALIDA);27-may-2019;M
+1201485594;SOLORZANO CABEZAS JORGE ENRIQUE;Firma de titulos en Secretaria de la Universidad de Guayaquil (SALIDA);21-may-2019;M
+1201485594;SOLORZANO CABEZAS JORGE ENRIQUE;Cita medica (SALIDA);23-may-2019;M
