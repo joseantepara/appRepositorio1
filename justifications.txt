@@ -19,7 +19,6 @@ cedula;descripcion;dias;mes
 0918551078;Permiso por calamidad doméstica;27 al 28 de mayo;M
 0918551078;Vacaciones;6 al 30 de junio;M
 0918551078;Vacaciones;6 al 30 de junio;JUN
-0918551078;Actualización de distributivos en Dirección Tecnológica (SALIDA);17-may-2019;M
 0923414916;Cita medica IESS por hijo (ENTRADA);22-may-2019;M
 0908703820;Justificacion autorizada por la Decana Indole Personal (ENTRADA);16-may-19;M
 0908703820;Autorizado por decana por asuntos familiares (ENTRADA);23-may-19;M
