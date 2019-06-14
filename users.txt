@@ -99,4 +99,4 @@ cedula cod clave nombres
 0400440590 65756 ymy2 Wilson-Pozo
 0908695364 80043 iy79 Xavier-Alvarez
 0910758366 82059 mqsn Xavier-Cornejo
-1202935498 70740 tyu4 Edgard Aviles
+1202935498 70740 tyu4 Edgard-Aviles
