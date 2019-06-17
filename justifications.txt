@@ -1,93 +1,143 @@
-cedula;descripcion;dias;mes
-0913519872;JUSTIFICADO POR MOTIVOS PERSONALES (ENTRADA);29-may-19;M
-0908695364;Congreso;28 de mayo al 1 de junio;M
-0908695364;Asistencia de curso de investigacion FCI (SALIDA);24-may-19;M
-0927316547;Calamidad domestica por hijo hospitalizado (SALIDA);17-may-2019;M
-0923451397;Actualización de distributivos en Dirección Tecnológica (SALIDA);17-may-2019;M
-0907686240;Justificado por asistir a Ciudadela Universitaria (SALIDA);18-may-19;M
-1801923002;Cita medica IESS (ENTRADA);12-jun-19;M
-0905524617;autorizado por trabajo de campo;31-may-19;M
-0905524617;Autorizado por tramite iess (SALIDA);5-jun-19;M
-0905524617;Salida de Campo (SALIDA);30-may-19;M
-0907210850;Autorizado certificado IESS;12-jun-19;M
-0922372701;Autorizado certificado IESS;28-may-19;M
-0703247601;Justificado por asistir a reunion convocada por la Directora de Admision y mivelacion (SALIDA);10-jun-19;M
-0919955443;Consulta médica (SALIDA);20-may-2019;M
-0919955443;Consulta médica (ENTRADA);21-may-2019;M
-0919955443;Consulta médica (SALIDA);28-may-2019;M
-0918551078;Actualización de distributivos en Dirección Tecnológica (SALIDA);17-may-2019;M
-0918551078;Permiso por calamidad doméstica;27 al 28 de mayo;M
-0918551078;Vacaciones;6 al 30 de junio;M
-0918551078;Vacaciones;6 al 30 de junio;JUN
-0923414916;Cita medica IESS por hijo (ENTRADA);22-may-2019;M
-0908703820;Justificacion autorizada por la Decana Indole Personal (ENTRADA);16-may-19;M
-0908703820;Autorizado por decana por asuntos familiares (ENTRADA);23-may-19;M
-0906170527;Permiso autorizado por asistir al V congreso Iberoamericano;10 al 14 de junio;M
-0906170527;Autorizado para asistir a curso remediación de suelo;7-jun-19;M
-0913804845;Justificado por reunion de padres de familia (ENTRADA);16-may-19;M
-0913804845;Justificado por calamidad domestica (ENTRADA);23-may-19;M
-0903279156;Autorizado por enfermedad certificado IESS;10-jun-19;M
-0918978107;Cambio de estado de marcación (ENTRADA);28-may-2019;M
-0906300595;Calamidad doméstica cita medica IESS esposa (ENTRADA);07-jun-2019;M
-0906300595;Calamidad doméstica terapia de rehabilitación IESS esposa (ENTRADA);10-jun-2019;M
-0906300595;Calamidad doméstica terapia de rehabilitación IESS esposa (ENTRADA);11-jun-2019;M
-0906300595;Permiso por un día Enfermedad;16-may-2019;M
-0925834723;Permiso medico IESS;6 al 7 de junio;M
-0925834723;calamidad domestica con cargo a vacaciones;30-may-19;M
-0919166645;Permiso por gestiones personales;10-jun-2019;M
-0919166645;Asistencia a reunion en la Dirección de investigacion (SALIDA);27-may-2019;M
-0911097194;Permiso con cargo a vacación por motivos personales;04-jun-2019;M
-0911097194;Permiso con cargo a vacación por motivo de su mamá;06-jun-2019;M
-0911097194;Autorizado con cargo a vacaciones;10-jun-19;M
-0910842913;Justificado asitencia a covocatoria de idiomas (SALIDA);17-may-19;M
-0910842913;JUSTIFICADO POR MOTIVOS PERSONALES (SALIDA);30-may-19;M
-0910842913;JUSTIFICADO POR MOTIVOS PERSONALES (SALIDA);6-jun-19;M
-0920006236;Justificación por enfermedad IESS;30  al 31 de mayo;M
-0923860803;Salida de Campo;23-may-19;M
-1720145844;Justificado por curso de uso de base de datos (SALIDA);23-may-19;M
-1720145844;Justificado por curso de base de datos (SALIDA);6-jun-19;M
-0960050102;Permiso autorizado por asistir al V congreso Iberoamericano;10 al 14 de junio;M
-0960050102;Autorizado para asistir a conversatorio sobre situación actual de los manglares  (ENTRADA);3-jun-19;M
-0907613616;Consulta IESS (ENTRADA);27-may-2019;M
-0907613616;Permiso autorizado IESS por enfermedad;30-may-19;M
-0907613616;autorizado por examen en el IESS de Milagro;10-jun-19;M
-0909378432;Certificado IESS por estancia Hospitalaria por Padre;23-may-19;M
-0909378432;Autorizado por proyectos de vinculacion;29-may-19;M
-0909378432;Autorizado por atender visita de la delegacion de Lousiana State University (ENTRADA);20-may-19;M
-0909378432;Autorizado por atender delegacion universidad de Lousiana(ENTRADA);21-may-19;M
-0909378432;JUSTIFICADO POR SALIDA CON ESTUDIANTES (ENTRADA);30-may-19;M
-0909378432;JUSTIFICADO POR ASISTIR A SOCIALIZACION DE PROYECTO (SALIDA);7-jun-19;M
-0913645313;Cargo a vacaciones;5 al 7 de junio;M
-0919730200;Salida de campo;31-may-2019;M
-0919730200;Autorizado por asistir a conferencia en el Ministerio de Ambiente (SALIDA);23-may-19;M
-0919730200;JUSTIFICADO CERTIFICADO IESS (ENTRADA);7-jun-19;M
-0919730200;JUSTIFICADO POR ASISTIR A REUNION EN LA UESS (SALIDA);11-jun-19;M
-0903850550;Salida de Campo;23-may-19;M
-0925010696;Justificación del ministerio de salud publica;28 al 30 de mayo;M
-0917546913;Calamidad domestica autorizado por enfermedad familiar;3 al 5 junio;M
-1201485594;Firma de titulos en Secretaria de la Universidad de Guayaquil (SALIDA);21-may-2019;M
-1201485594;Cita medica (SALIDA);23-may-2019;M
-1201485586;Calamidad domestica-autorizado con cargo a vacaciones;12-jun-19;M
-0906830088;Examen hospital IESS (ENTRADA);31-may-2019;M
-0907104905;Cargo a vacación por dos horas (SALIDA);07-jun-2019;M
-0907104905;Permiso cargo a vacaciones por asuntos personales;06-jun-2019;M
-0920461795;Permiso medico IESS;10 al 14 de junio;M
-0920461795;Permiso medico IESS;5 al 7 de junio;M
-0907762942;Eliminar la marcación segunda de almuerzo;21-may-2019;M
-0907762942;Cita medica IESS (SALIDA);12-jun-19;M
-0910481886;Permiso cargo a vacaciones por asuntos personales;7 al 9 de junio;M
-0925364168;Permiso con cargo a vacación por enfermedad;30-may-2019;M
-0925364168;Permiso con cargo a vacación por motivos personales;10-jun-2019;M
-0925364168;Cargo a vacaciones;04-jun-2019;M
-0925364168;Actualización de distributivos en Dirección Tecnológica (SALIDA);17-may-2019;M
-0908429830;Terapia fisica IESS (ENTRADA);16-may-2019;M
-0908429830;Terapia fisica IESS (ENTRADA);17-may-2019;M
-0908429830;Justificado por tramite de licencia de conducir (SALIDA);20-may-19;M
-0924215379;Permiso cargo a vacaciones por asuntos personales;7 al 9 de junio;M
-1311094864;JUSTIFICADO POR ASISTIR SOCIALIZACION DE PROYECTO (SALIDA);7-jun-19;M
-0919730200;Justicado por asistencia a sala de consejo superior universitario (SALIDA);10-jun-19;M
-0960050102;JUSTIFICADO POR ASISTENCIA A EVENTO (SALIDA);30/5/2019;M
-0909378432;PERMISO POR SALIDA DE CAMPO;13/6/2019;M
-0913519872;JUSTIFICADO RETRASO;5/6/2019;M
-0908363179;Permiso medico IESS;14/6/2019;M
-0704536838;JUSTIFICADO POR LABORES FUERA DE FACULTAD INFORME AUTORIZADO;MES DE MAYO;M
+cedula;descripcion;dias;mes;
+0913519872;JUSTIFICADO POR MOTIVOS PERSONALES (ENTRADA);29-may-19;M;
+0913519872;JUSTIFICADO RETRASO;5-jun-19;M;
+0913519872;Justificado por Decanato por estar indispuesta de salud (SALIDA);12-jun-19;M;
+0908133184;cambio de estado ENTRADA (sin memorando);22 Y 23 MAYO;M;
+0908695364;Congreso;28 de mayo al 1 de junio;M;
+0908695364;Asistencia de curso de investigacion FCI (SALIDA);24-may-19;M;
+0927316547;Calamidad domestica por hijo hospitalizado (SALIDA);17-may-2019;M;
+0923451397;Actualización de distributivos en Dirección Tecnológica (SALIDA);17-may-2019;M;
+0924150402;cambio de estado (SALIDA);8-jun-19;M;
+0909757361;cambio de estado ENTRADA (sin memorando);18-may-19;M;
+0922811716;cambio de estado ENTRADA ALMUERZO (sin memorando);3-jun-19;M;
+1801923002;Cita medica IESS (ENTRADA);12-jun-19;M;
+1801923002;JUSTIFICADO POR LABORES FUERA DE FACULTAD INFORME AUTORIZADO;MES DE MAYO;M;
+0905524617;autorizado por trabajo de campo;31-may-19;M;
+0905524617;Autorizado por tramite iess (SALIDA);5-jun-19;M;
+0905524617;Salida de Campo (SALIDA);30-may-19;M;
+0905524617;Salida de Campo (SALIDA);14-jun-19;M;
+0601605918;cambio de estado SALIDA (sin memorando);28-may-19;M;
+0702172487;cambio de estado SALIDA (sin memorando);20-may-19;M;
+0907210850;Autorizado certificado IESS;12-jun-19;M;
+0922372701;Autorizado certificado IESS;28-may-19;M;
+0922372701;Calamidad domestica autorizada por Decanato (ENTRADA);16,20,22,30,31 mayo y 3,4 junio;M;
+0922372701;Reunión con Alcande en GAD municipal del Cantón Marcelino Maridueña;10-jun-19;M;
+0703247601;Justificado por asistir a reunion convocada por la Directora de Admision y mivelacion (SALIDA);10-jun-19;M;
+0909222630;cambio de estado ENTRADA (sin memorando);27-may-19;M;
+0911134963;cambio de estado (SALIDA);8-jun-19;M;
+0916969199;Justificado por Administrador y Decanato;23-may-19;M;
+0919955443;Consulta médica (SALIDA);20-may-2019;M;
+0919955443;Consulta médica (ENTRADA);21-may-2019;M;
+0919955443;Consulta médica (SALIDA);28-may-2019;M;
+0909252926;cambio de estado SALIDA ALMUERZO (sin memorando);20 mayo y 4 junio;M;
+0903481067;cambio de estado SALIDA ALMUERZO (sin memorando);4 y 5 junio;M;
+0913748323;cambio de estado ENTRADA (sin memorando);31-may-19;M;
+0918551078;Actualización de distributivos en Dirección Tecnológica (SALIDA);17-may-2019;M;
+0918551078;Permiso por calamidad doméstica;27 al 28 de mayo;M;
+0918551078;Vacaciones;6 al 30 de junio;M;
+0918551078;Vacaciones;6 al 30 de junio;JUN;
+0923414916;Cita medica IESS por hijo (ENTRADA);22-may-2019;M;
+0908703820;Justificacion autorizada por la Decana Indole Personal (ENTRADA);16-may-19;M;
+0908703820;Autorizado por decana por asuntos familiares (ENTRADA);23-may-19;M;
+0906170527;Permiso autorizado por asistir al V congreso Iberoamericano;10 al 14 de junio;M;
+0906170527;Autorizado para asistir a curso remediación de suelo;7-jun-19;M;
+0906170527;cambio de estado SALIDA (sin memorando);31 DE MAYO Y 6 JUNIO;M;
+0907843155;Justificado por estar realizando otras actividades en la Facultad;28, 29 31 de mayo y 5, 6 de junio;M;
+0907843155;Justificaciòn de marcación de entrada por certificación del Administrador ;27-may-19;M;
+0908239510;cambio de estado ENTRADA (sin memorando);27 mayo, 4 y 12 junio;M;
+0908239510;cambio de estado SALIDA (sin memorando);1-jun-19;M;
+0913804845;Justificado por reunion de padres de familia (ENTRADA);16-may-19;M;
+0913804845;Justificado por calamidad domestica (ENTRADA);23-may-19;M;
+0913804845;cambio de estado ENTRADA (sin memorando);12-jun-19;M;
+0903279156;Autorizado por enfermedad certificado IESS;10-jun-19;M;
+0903279156;Justificación por estar indispuesta de salud (SALIDA);6-jun-19;M;
+0704536838;JUSTIFICADO POR LABORES FUERA DE FACULTAD INFORME AUTORIZADO;MES DE MAYO;M;
+0908363179;Permiso medico IESS;14/6/2019;M;
+1707200356;cambio de estado ENTRADA (sin memorando);10-jun-19;M;
+0918978107;Cambio de estado de marcación (ENTRADA);28-may-2019;M;
+0906300595;Calamidad doméstica cita medica IESS esposa (ENTRADA);07-jun-2019;M;
+0906300595;Calamidad doméstica terapia de rehabilitación IESS esposa (ENTRADA);10-jun-2019;M;
+0906300595;Calamidad doméstica terapia de rehabilitación IESS esposa (ENTRADA);11-jun-2019;M;
+0906300595;Permiso por un día Enfermedad;16-may-2019;M;
+0925834723;Permiso medico IESS;6 al 7 de junio;M;
+0925834723;calamidad domestica con cargo a vacaciones;30-may-19;M;
+0919166645;Permiso por gestiones personales;10-jun-2019;M;
+0919166645;Asistencia a reunion en la Dirección de investigacion (SALIDA);27-may-2019;M;
+0911097194;Permiso con cargo a vacación por motivos personales;04-jun-2019;M;
+0911097194;Permiso con cargo a vacación por motivo de su mamá;06-jun-2019;M;
+0911097194;Autorizado con cargo a vacaciones;10-jun-19;M;
+0911097194;cambio de estado SALIDA ALMUERZO (sin memorando);16,22 Y 30 MAYO;M;
+0910842913;Justificado asitencia a covocatoria de idiomas (SALIDA);17-may-19;M;
+0910842913;JUSTIFICADO POR MOTIVOS PERSONALES (SALIDA);30-may-19;M;
+0910842913;JUSTIFICADO POR MOTIVOS PERSONALES (SALIDA);6-jun-19;M;
+0920006236;Justificación por enfermedad IESS;30  al 31 de mayo;M;
+1201885199;cambio de estado SALIDA ALMUERZO (sin memorando);28-may-19;M;
+0923860803;Salida de Campo;23-may-19;M;
+1720145844;Justificado por curso de uso de base de datos (SALIDA);23-may-19;M;
+1720145844;Justificado por curso de base de datos (SALIDA);6-jun-19;M;
+0960050102;Permiso autorizado por asistir al V congreso Iberoamericano;10 al 14 de junio;M;
+0960050102;Autorizado para asistir a conversatorio sobre situación actual de los manglares  (ENTRADA);3-jun-19;M;
+0960050102;JUSTIFICADO POR ASISTENCIA A EVENTO (SALIDA);30/5/2019;M;
+0907613616;Consulta IESS (ENTRADA);27-may-2019;M;
+0907613616;Permiso autorizado IESS por enfermedad;30-may-19;M;
+0907613616;autorizado por examen en el IESS de Milagro;10-jun-19;M;
+0909378432;Certificado IESS por estancia Hospitalaria por Padre;23-may-19;M;
+0909378432;Autorizado por proyectos de vinculacion;29-may-19;M;
+0909378432;Autorizado por atender visita de la delegacion de Lousiana State University (ENTRADA);20-may-19;M;
+0909378432;Autorizado por atender delegacion universidad de Lousiana(ENTRADA);21-may-19;M;
+0909378432;JUSTIFICADO POR SALIDA CON ESTUDIANTES (ENTRADA);30-may-19;M;
+0909378432;JUSTIFICADO POR ASISTIR A SOCIALIZACION DE PROYECTO (SALIDA);7-jun-19;M;
+0909378432;PERMISO POR SALIDA DE CAMPO;13/6/2019;M;
+0909378432;Justificado por Decanato por cuidado con su papa (ENTRADAS);16 de mayo y 6 de junio;M;
+0909378432;cambio de estado ENTRADA (sin memorando);6-jun-19;M;
+0914817135;Justificado por Decanato la no marcación de fin de lunch;22-may-19;M;
+0913645313;Cargo a vacaciones;5 al 7 de junio;M;
+0914844378;cambio de estado ENTRADA (sin memorando);21 MAYO Y 4 JUNIO ;M;
+0919730200;Salida de campo;31-may-2019;M;
+0919730200;Autorizado por asistir a conferencia en el Ministerio de Ambiente (SALIDA);23-may-19;M;
+0919730200;JUSTIFICADO CERTIFICADO IESS (ENTRADA);7-jun-19;M;
+0919730200;JUSTIFICADO POR ASISTIR A REUNION EN LA UESS (SALIDA);11-jun-19;M;
+0919730200;Justicado por asistencia a sala de consejo superior universitario (SALIDA);10-jun-19;M;
+0919730200;cambio de estado (SALIDA);28-may-19;M;
+0919730200;cambio de estado SALIDA (sin memorando);27-may-19;M;
+0903850550;Salida de Campo;23-may-19;M;
+0907678288;Asistencia a la Sesión extraordinaria del Consejo consultivo de Investigaciòn (SALIDA);10-jun-19;M;
+0925010696;Justificación del ministerio de salud publica;28 al 30 de mayo;M;
+0917546913;Calamidad domestica autorizado por enfermedad familiar;3 al 5 junio;M;
+0913029658;cambio de estado ENTRADA (sin memorando);29-may-19;M;
+1201485594;Firma de titulos en Secretaria de la Universidad de Guayaquil (SALIDA);21-may-2019;M;
+1201485594;Cita medica (SALIDA);23-may-2019;M;
+1201485594;cambio de estado ENTRADA ALMUERZO (sin memorando);16 mayo, 5 y 12 junio;M;
+1201485594;cambio de estado SALIDA ALMUERZO (sin memorando);28 y 29 mayo;M;
+1201485594;cambio de estado ENTRADA (sin memorando);23-may-19;M;
+1201485594;cambio de estado SALIDA (sin memorando);11-jun-19;M;
+1201485586;Calamidad domestica-autorizado con cargo a vacaciones;12-jun-19;M;
+0906830088;Examen hospital IESS (ENTRADA);31-may-2019;M;
+0906830088;Autorizado por Decanato-congestion vehicular (ENTRADA);30 de mayo y 3 de junio;M;
+0906830088;Asistencia a consulta Medica IESS (ENTRADA);14-jun-19;M;
+0906830088;cambio de estado (INICIO ALMUERZO);6-jun-19;M;
+0907104905;Cargo a vacación por dos horas (SALIDA);07-jun-2019;M;
+0907104905;Permiso cargo a vacaciones por asuntos personales;06-jun-2019;M;
+0907104905;cambio de estado (INICIO ALMUERZO);23-may-19;M;
+0913775334;Terapia fisica IESS (SALIDA);4 AL 14 JUNIO;M;
+0920461795;Permiso medico IESS;10 al 14 de junio;M;
+0920461795;Permiso medico IESS;5 al 7 de junio;M;
+0907762942;Eliminar la marcación segunda de almuerzo;21-may-2019;M;
+0907762942;Cita medica IESS (SALIDA);12-jun-19;M;
+0907762942;cambio de estado SALIDA ALMUERZO (sin memorando);14-jun-19;M;
+0910481886;Permiso cargo a vacaciones por asuntos personales;7 al 9 de junio;M;
+0910481886;Justificado por Decanato por desperfecto en vehículo (ENTRADA);14-jun-19;M;
+0925364168;Permiso con cargo a vacación por enfermedad;30-may-2019;M;
+0925364168;Permiso con cargo a vacación por motivos personales;10-jun-2019;M;
+0925364168;Cargo a vacaciones;04-jun-2019;M;
+0925364168;Actualización de distributivos en Dirección Tecnológica (SALIDA);17-may-2019;M;
+0925364168;cambio de estado SALIDA (sin memorando);21-may-19;M;
+0925583858;cambio de estado SALIDA (sin memorando);13-jun-19;M;
+0908429830;Terapia fisica IESS (ENTRADA);16-may-2019;M;
+0908429830;Terapia fisica IESS (ENTRADA);17-may-2019;M;
+0908429830;Justificado por tramite de licencia de conducir (SALIDA);20-may-19;M;
+0924215379;Permiso cargo a vacaciones por asuntos personales;7 al 9 de junio;M;
+0924215379;Autorizada por Decanato por omisión de marcación;23 de mayo y 4,5 de junio;M;
+0924215379;cambio de estado (SALIDA);16-may-19;M;
+1311094864;JUSTIFICADO POR ASISTIR SOCIALIZACION DE PROYECTO (SALIDA);7-jun-19;M;
+1311094864;cambio de estado ENTRADA (sin memorando);13-jun-19;M;
