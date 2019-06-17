@@ -141,3 +141,4 @@ cedula;descripcion;dias;mes;
 0924215379;cambio de estado (SALIDA);16-may-19;M;
 1311094864;JUSTIFICADO POR ASISTIR SOCIALIZACION DE PROYECTO (SALIDA);7-jun-19;M;
 1311094864;cambio de estado ENTRADA (sin memorando);13-jun-19;M;
+0919730200;Justificado por Decanato por evidencias de su asistencia (ENTRADA);28-may-19;M;
