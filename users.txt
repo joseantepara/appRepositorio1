@@ -1,4 +1,4 @@
-cedula cod clave nombres
+cedula cod clave Seleccionar
 0909709446 86902 dcog Alberto-Galarza
 0922372701 86687 77rs Alfredo-Cañas
 0906170527 83435 7fig Amado-Gallardo
