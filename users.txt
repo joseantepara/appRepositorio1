@@ -86,6 +86,7 @@ cedula cod clave Seleccionar
 0913807830 83436 v7wr Olga-Arevalo
 0954974432 85208 jgrc Patricio-Solorzano
 0909785644 84125 vito Priscila-Manosalvas
+0922201728 87071 tito Rafael-Calle
 1707200356 80083 o2p5 Raul-Mejia
 1311094864 86256 2ua5 Rene-Zambrano
 1801923002 82058 veqw Richard-Banda
