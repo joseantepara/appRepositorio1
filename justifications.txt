@@ -142,3 +142,59 @@ cedula;descripcion;dias;mes;
 1311094864;JUSTIFICADO POR ASISTIR SOCIALIZACION DE PROYECTO (SALIDA);7-jun-19;M;
 1311094864;cambio de estado ENTRADA (sin memorando);13-jun-19;M;
 0919730200;Justificado por Decanato por evidencias de su asistencia (ENTRADA);28-may-19;M;
+0917546913;Permiso para asistir a Conferencia Binacional de Geoparques Colombia;3/07/2019 a 5/07/2019;JUN
+0907613616;Permiso Por Asistencia a Examen Medico Cerificado Iess;17-jun-2019;JUN
+0905524617;Justificado Por Asistencia a convocatoria de controloria;18-jun-2019;JUN
+0907678288;Permiso Justificado Medico (3 dias); 17/06/2019 a 19/06/2019;JUN
+0920461795;Permiso , Certificado Iess;17-jun-2019;JUN
+0920461795;Permiso , Certificado Iess;del 18/06/2019 hasta 02/07/2019;JUN
+0907104905;Permiso con cargo a vacaciones;del 20/06/2019 y el 25/06/2019;JUN
+1801923002;Permiso con cargo a vacaciones;21-jun-2019;JUN
+0907104905;Permiso con cargo a vacaciones;20-jun-2019;JUN
+0703247601;Justicado , marcacion entrada 2 DIAS;20/06/2019 al 21/06/2019;JUN
+0909378432;autorizado por proyecto de vinculacion de tesis ;21-jun-2019;JUN
+0909378432;autorizado por proyecto de vinculacion de tesis ;04-jul-2019;JUN
+0909378432;autorizado por proyecto de vinculacion de tesis ;11-jul-2019;JUN
+0905524617;Justificado, marcacion de entrada ;20-jun-2019;JUN
+0909378432;Justificado , Marcacion de entrada por salida de campo ;19-jun-2019;JUN
+0910481886;Permiso con cargo a vacaciones;del 24/06/2019 hasta 22/07/2019;JUN
+0910481886;Permiso con cargo a vacaciones;del 24/06/2019 hasta 22/07/2019;JUL
+0907678288;Justificado , Cita Medica (certificado del iess);20-jun-2019;JUN
+0913775334;Justificado,marcacion hora de almuerzo (cita medica);20-jun-2019;JUN
+0907104905;Permiso con cargo a vacaciones ;25-jun-2019;JUN
+0906830088;Permiso con cargo a vacaciones ;del 24/06/2019 hasta 09/07/2019;JUN
+0601605918;Justificar , Marcacion entrada (asuntos personales );21-jun-2019;JUN
+0903481067;Permiso médico. Certificado FUNDASEN;27-jun-2019;JUN
+0913029658;Justificación por calamidad doméstica, salio a las 16:00;20-jun-2019;JUN
+0923414916;Permiso para asistir reunión padres de familia de 8:30 a 10:30;24-jun-2019;JUN
+0908695364;Permiso autorizado por Consejo de Facultad;28/06/2019 al 6/07/2019;JUN
+0601605918;Justificación de ENTRADA por asistir a reunión escolar desde las 7:00 a las 8:30;21-jun-2019;JUN
+0907210850;;20-jun-2019;JUN
+0920461795;Permiso , Certificado Iess 15DÍAS;3/07/2019 A 17/07/2019;JUN
+0918551078;Vacaciones;6 al 30 de junio;JUN
+0920461795;Permiso , Certificado Iess;03/07/2019 hasta 17/07/2019;JUN
+0920461795;Permiso , Certificado Iess;03/07/2019 hasta 17/07/2019;JUL
+0907678288;Permiso simposio ; 3/07/2019 a 5/07/2019;JUN
+1201711999;JUSTIFICACION ENTRADA;03-jul-2019;JUN
+1201711999;JUSTIFICACION SALIDA;28-jun-2019;JUN
+1201711999;JUSTIFICACION SALIDA;05-jul-2019;JUN
+0920461795;Permiso , Certificado Iess;17-jun-2019;JUN
+0907104905;Permiso con cargo a vacicones ;21-jun-2019;JUN
+0903279156;Permiso dos horas por cita medica de esposa IESS;17-jun-2019;JUN
+0916969199;Permiso por certificado IESS;22-jun-2019;JUN
+1707200356;Cita medica del IESS;21-jun-2019;JUN
+1201485594;Justifica salida pues marcó a las 15:30;24-jun-2019;JUN
+1311094864;Justifica salida, por problema de salud;25-jun-2019;JUN
+0927316547;Justifica atraso por problema mecanico de bus;26-jun-2019;JUN
+0908133184;Examenes Medicos;26-jun-2019;JUN
+0923451397;Justifica salida por reunión con Dirección de Gestión del Personal Académico;25-jun-2019;JUN
+0922372701;Justifica salida por reunión con Dirección de Gestión del Personal Académico;25-jun-2019;JUN
+0703247601;Justifica salida por reunión con Dirección de Gestión del Personal Académico;25-jun-2019;JUN
+0920218989;Justifica salida por reunión con Dirección de Gestión del Personal Académico;25-jun-2019;JUN
+1311094864;Justifica salida por reunión con Dirección de Gestión del Personal Académico;25-jun-2019;JUN
+0917546913;Permiso por Conferencia en evento Académico;26-jun-2019;JUN
+0919955443;Justifica salida;28-jun-2019;JUN
+0907591937;Justifica marcación anticipada por reunión de gestores PPP;25-jun-2019;JUN
+0924215379;Cargo a vacaciones dos horas (14:30 a 16:30);21-jun-2019;JUN
+0908429830;Justifica entrada por cita medica IESS;27-jun-2019;JUN
+0925364168;Vacaciones 15 dias;1 al 15 de julio de 2019;JUN
