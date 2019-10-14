@@ -695,3 +695,96 @@ cedula;descripcion;dias;mes;
 0924215379;JUSTIFICADO ENTRADA POR GESTION DE ANIVERSARIO;16/08/2019;AGO;
 0924215379;JUSTIFICADO SALIDA DE LUNCH;30/08/2019;AGO;
 0924215379;JUSTIFICADO ENTRADA DE LUNCH;05/09/2019;AGO;
+0909757361;PERMISO MEDICO IESS;13/09/2019 A 27/09/2019;SEP
+0922201728;PERMISO CERTIFICADO DE NACIEMIENTO HIJO ;05/10/2019;SEP
+0922372701;Permiso vacaciones;26/09/2019 A 07/10/2019;SEP
+0922372701;Permiso POR CALAMIDAD DOMESTICA ;23 Y 24/09/2019;SEP
+0922372701;JUSTIFICADO SALIDA POR ASISTIR A CIUDADELA;18/09/2019;SEP
+0922372701;JUSTIFICADO SALIDA POR ASISTIR A CIUDADELA;19/09/2019;SEP
+0703247601;Permiso vacaciones;18/09/2019 A 27/09/2019;SEP
+0910758366;PERMISO PARA PARTCIPAR EN CONFERENCIA;17/09/2019 A19/10/2019;SEP
+0909709446;JUSTIFICADO SALIDA  SALIDA DE CAMPO;20 Y 24/09/2019 ;SEP
+0959220815;PERMISO IESS OPERACIÓN;08/10/2019 A 06/11/2019;SEP
+1720145844;PERMISO SALIDA DE CAMPO;16 Y 17/09/2019;SEP
+0960050102;Permiso POR CALAMIDAD DOMESTICA ;30/09/2019;SEP
+0400440590;PERMISO MEDICO IESS;16 Y 17/09/2019;SEP
+0907678288;PERMISO VACACIONES APROBADAS POR EL RECTOR;19 AL 25/09/2019;SEP
+0905028072;Permiso vacaciones;27/09/2019;SEP
+0905028072;Permiso vacaciones a partir de las 14.30;26/09/2019;SEP
+0917546913;PERMISO PARA ASISTIR TALLER GEOPARQUES DE LA UNESCO;21 AL 25 DE OCT;OCT
+0917546913;PERMISO CON RECUPERACIÓN 9 Y 16 DE NOVIEMBRE ;16 Y 17/09/2019;SEP
+0927316547;Justificado entrada por falla del reloj biométrico;07/10/2019;SEP
+0927316547;Permiso vacaciones;17/09/2019 A 26/09/2019;SEP
+0927316547;Justificado entrada y salida 7:00 a 13:00 por falla del reloj;29/09/2019;SEP
+0924150402;JUSTIFICADO SALIDA POR TRAMITES DE LICENCIA;23/09/2019;SEP
+0924150402;Permiso vacaciones;30/09/2019 a 9/10/2019;SEP
+0924150402;Justificado entrada y salida 13.00 a 19:00 por falla del reloj;29/09/2019;SEP
+0908997604;permiso No va a marcar en la facultad porque esta en adm central ;9/09/2019 a 31/10/2019;SEP
+0922811716;Justificado entrada por falla del reloj biométrico;07/10/2019;SEP
+0922811716;Justificado entrada y salida 7:00 a 13:00 por falla del reloj;06/10/2019;SEP
+0930105820;Permiso con cargo a vacaciones por motivos personales;7- 8 y 9/10/2019;SEP
+0916969199;Permiso vacaciones;17/09/2019 A 19/09/2019;SEP
+0916969199;Justificado entrada y salida13:00 a 19:00 por falla del reloj;29/09/2019;SEP
+0919955443;Permiso vacaciones;17/09/2019 A 26/09/2019;SEP
+0912594538;Justificado entrada por falla del reloj biométrico;07/10/2019;SEP
+0912594538;Justificado lunch por acudir a cuidar a esposa operada certificado iess;18- 19 y 20/09/2019;SEP
+0909252926;Permiso vacaciones;23/09/2019 A 03/10/2019;SEP
+0909252926;Justificado entrada por falla del reloj biométrico;07/10/2019;SEP
+0909252926;Justificado entrada y salida 7:00 a 13:00 por falla del reloj;06/10/2019;SEP
+0903481067;Justificado por misa del hermano de 18: 00 a 19:00;27/09/2019;SEP
+0918551078;Permiso vacaciones;23/09/2019 A 27/09/2019;SEP
+0918551078;Justificado entrada por falla del reloj biométrico;07/10/2019;SEP
+0907843155;Justificado entrada por falla del reloj biométrico;07/10/2019;SEP
+0908239510;Permiso vacaciones;23/09/2019 A 02/10/2019;SEP
+0905784798;Justificado entrada por falla del reloj biométrico;07/10/2019;SEP
+0905784798;Justificado por paro no pudo asistir;04/10/2019;SEP
+0922625124;Justificado entrada por falla del reloj biométrico;07/10/2019;SEP
+0918978107;Justificado entrada por falla del reloj biométrico;07/10/2019;SEP
+0907211536;JUSTIFICADO ENTRADA POR CITA MEDICA IESS;16/09/2019;SEP
+0907211536;Permiso vacaciones;17/09/2019 A 10/10/2019;SEP
+0925834723;PERMISO CALAMIDAD DOMESTICA;19/09/2019;SEP
+0925834723;PERMISO CON CARGO A VACACIONES DESDE 17:45 LE TOCABA SALIR 19:00;20/09/2019;SEP
+0925834723;Permiso vacaciones;30/09/2019 a 9/10/2019;SEP
+0925834723;Justificado entrada y salida 7:00 a 13:00 por falla del reloj;29/09/2019;SEP
+0906300595;Permiso vacaciones;24/09/2019 A 04/10/2019;SEP
+0906300595;PERMISO CALAMIDAD DOMESTICA;19/09/2019;SEP
+0906300595;Justificado entrada por falla del reloj biométrico;07/10/2019;SEP
+0906300595;Justificado entrada y salida 7:00 a 13:00 por falla del reloj;06/10/2019;SEP
+0919166645;permiso No va a marcar en la facultad porque esta en adm central ;9/09/2019 a 31/10/2019;SEP
+0911097194;Permiso vacaciones;02/10/2019 A 10/10/2019;SEP
+0911097194;Permiso vacaciones;26/09/2019 A 30/09/2019;SEP
+0906634340;Justificado entrada y salida19:00 a 07:00 por falla del reloj;29/09/2019;SEP
+1201885199;Justificado entrada por calamidad domestica (rompio el pantalón);25/09/2019;SEP
+0914817135;Permiso vacaciones;16/09/2019 A 19/09/2019;SEP
+0914817135;Justificado entrada por falla del reloj biométrico;07/10/2019;SEP
+0913645313;Permiso POR CALAMIDAD DOMESTICA;23 y 25/09/2019;SEP
+0913645313;Justificado entrada y salida19:00 a 07:00 por falla del reloj;29/09/2019;SEP
+0929718518;Permiso vacaciones;30/09/2019 al 4/10/2019;SEP
+0929718518;Justificado entrada por falla del reloj biométrico;07/10/2019;SEP
+0929718518;Justificado entrada y salida13:00 a 19:00 por falla del reloj;29/09/2019;SEP
+0913029658;permiso No va a marcar en la facultad porque esta en adm central ;9/09/2019 a 31/10/2019;SEP
+0954974432;Permiso vacaciones;23/09/2019 a 2/10/2019;SEP
+0954974432;Justificado entrada y salida 13:00 a 19:00 por falla del reloj;06/10/2019;SEP
+1201485594;Justificado salida por reunión en ciudadela;27/09/2019;SEP
+1201485594;Justificado entrada por reunión en ciudadela;02/10/2019;SEP
+1201485586;Permiso vacaciones;01 AL 09/10/2019;SEP
+0906830088;Permiso vacaciones;24/09/2019 a 27/09/2019;SEP
+0906830088;JUSTIFICADO ENTRADA POR CITA MEDICA IESS;18/09/2019;SEP
+0906830088;Justificado entrada por falla del reloj biométrico;07/10/2019;SEP
+0907104905;Permiso vacaciones;19/09/2019 A 25/09/2019;SEP
+0907104905;Justificado entrada por falla del reloj biométrico;07/10/2019;SEP
+0913775334;Justificado entrada por asistir a examen del torax;07/10/2019;SEP
+0913775334;Justificado entrada por asistir a colegio de hija;02/10/2019;SEP
+0907853295;Permiso vacaciones;30/09/2019 a 2/10/2019;SEP
+0907853295;Justificado entrada por falla del reloj biométrico;07/10/2019;SEP
+0907853295;Justificado entrada y salida 13:00 a 19:00 por falla del reloj;06/10/2019;SEP
+0920461795;PERMISO MEDICO IESS;18/09/2019 A 20/09/2019;SEP
+0920461795;PERMISO MEDICO IESS;23/09/2019 A 06/10/2019;SEP
+0920461795;PERMISO MEDICO IESS;7/10/2019 a 5/11/2019;SEP
+0907762942;Permiso vacaciones;19/09/2019 A 27/09/2019;SEP
+0925364168;Permiso vacaciones;23/09/2019 A 30/09/2019;SEP
+0925364168;Permiso vacaciones;05/11/2019 A 02/12/2019;NOV
+0908429830;Permiso vacaciones;23/09/2019 A 30/09/2019;SEP
+0908429830;Permiso POR CALAMIDAD DOMESTICA;19 y 20/09/2019;SEP
+0924215379;Permiso vacaciones;30/09/2019 a 04/10/2019;SEP
+0909785644;Permiso vacaciones;02/10/2019;SEP
